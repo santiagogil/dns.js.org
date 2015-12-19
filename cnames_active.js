@@ -103,7 +103,6 @@ var cnames_active = {
     ,"dns": "js-org.github.io/dns.js.org" //CF
     ,"documentation": "documentationjs.github.io"
     ,"domtastic": "webpro.github.io/DOMtastic" //CF
-    ,"dope": "fouad.github.io/dope"
     ,"du": "ruanyl.github.io/du"
     ,"duffn": "duffn.github.io"
     ,"dutchakdev": "dutchakdev.github.io"
@@ -116,7 +115,8 @@ var cnames_active = {
     ,"euclid": "anandthakker.github.io/euclid"
     ,"eventstore": "adrai.github.io/node-eventstore"
     ,"exbars": "youssefkababe.github.io/exbars"
-    ,"facepalm": "santiagogil.github.io/facepalm"
+    ,"serender": "youssefkababe.github.io/serender"
+    ,"facepalm": "santiagogil.github.io/facepalm/" //CF
     ,"fcbosque": "cronopio.github.io/fcbosque"
     ,"festercluck": "festercluck.github.io"
     ,"finder": "applait.github.io/finderjs"
@@ -139,7 +139,6 @@ var cnames_active = {
     ,"gridsplit": "assetinfo.github.io"
     ,"gruft": "nikola.github.io/gruft"
     ,"guillotine": "matiasgagliano.github.io/guillotine"
-    ,"guiseek": "guiseek.github.io"
     ,"gully": "nmabhinandan.github.io/gully"
     ,"gun": "gundb.github.io"
     ,"gyre": "wridder.github.io/GyreJS"
@@ -270,7 +269,6 @@ var cnames_active = {
     ,"segoe-mdl2-css": "ckgrafico.github.io/Segoe-mdl2-assets-css"
     ,"select_io": "selaromi.github.io/select_io"
     ,"selectric": "lcdsantos.github.io/jQuery-Selectric"
-    ,"serender": "youssefkababe.github.io/serender"
     ,"serginator": "serginator.github.io"
     ,"shedali": "shedali.github.io"
     ,"shorttompkins": "shorttompkins.github.io"
@@ -314,8 +312,8 @@ var cnames_active = {
     ,"upresent": "bobbybee.github.io/uPresent"
     ,"uvcharts": "imaginea.github.io/uvCharts"
     ,"vaguilar": "vaguilar.github.io"
-    ,"valentin": "valentinvieriu.github.io"
     ,"validator": "ppoffice.github.io/validator.js"
+    ,"valentin": "valentinvieriu.github.io"
     ,"vinimdocarmo": "vinimdocarmo.github.com"
     ,"visualnovel": "selcher.github.io/visualnoveljs"
     ,"vk-x": "vk-x.github.io" //CF
@@ -335,4 +333,6 @@ var cnames_active = {
     ,"youtube-box": "lucasmonteverde.github.io/youtube-box"
     ,"zodiac": "indus.github.io/Zodiac"
     ,"zombie": "assaf.github.io/zombie"
+    ,"guiseek": "guiseek.github.io"
+    ,"dope": "fouad.github.io/dope"
 }
